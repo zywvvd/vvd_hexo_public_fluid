@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zywvvd.com/2020/02/24/hexo/2_hexo_config/Hexo_config/</loc>
+    
+    <lastmod>2021-08-04T17:22:50.800Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.zywvvd.com/2020/02/24/hexo-theme/next/1_theme_install/Next-install/</loc>
+    
+    <lastmod>2021-08-04T17:15:17.954Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zywvvd.com/2021/08/05/hexo-theme/matery/add-matery-theme/add-matery-theme/</loc>
     
     <lastmod>2021-08-04T16:52:35.376Z</lastmod>
@@ -1353,14 +1367,14 @@
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/photos/2016_03_07_hefei_zhongyinyushi_xiaobing/index.html</loc>
+    <loc>https://www.zywvvd.com/photos/2016_03_06_hefei_1912_jiepai/index.html</loc>
     
     <lastmod>2020-07-07T15:43:15.800Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/photos/2016_03_06_hefei_1912_jiepai/index.html</loc>
+    <loc>https://www.zywvvd.com/photos/2016_03_07_hefei_zhongyinyushi_xiaobing/index.html</loc>
     
     <lastmod>2020-07-07T15:43:15.800Z</lastmod>
     
@@ -1605,13 +1619,6 @@
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/02/24/hexo-theme/next/1_theme_install/Next-install/</loc>
-    
-    <lastmod>2020-07-07T15:43:15.700Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.zywvvd.com/2020/03/20/hexo-theme/next/14_add_rss/next-add-rss/</loc>
     
     <lastmod>2020-07-07T15:43:15.690Z</lastmod>
@@ -1738,13 +1745,6 @@
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/02/24/hexo/2_hexo_config/Hexo_config/</loc>
-    
-    <lastmod>2020-07-07T15:43:15.540Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.zywvvd.com/2020/02/25/hexo/3_hexo_commands/hexo-commands/</loc>
     
     <lastmod>2020-07-07T15:43:15.540Z</lastmod>
@@ -1808,14 +1808,14 @@
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/05/25/deep_learning/keras/my-mean-iou/my-mean-iou/</loc>
+    <loc>https://www.zywvvd.com/2020/05/25/deep_learning/keras/keras-sclice-data/keras-sclice-data/</loc>
     
     <lastmod>2020-07-07T15:43:15.520Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/05/25/deep_learning/keras/keras-sclice-data/keras-sclice-data/</loc>
+    <loc>https://www.zywvvd.com/2020/05/25/deep_learning/keras/my-mean-iou/my-mean-iou/</loc>
     
     <lastmod>2020-07-07T15:43:15.520Z</lastmod>
     
@@ -1829,14 +1829,14 @@
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/04/01/coding/utils/baidumap-ak/</loc>
+    <loc>https://www.zywvvd.com/2020/05/12/coding/json-bug-fix/json-bug-fix/</loc>
     
     <lastmod>2020-07-07T15:43:15.510Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.zywvvd.com/2020/05/12/coding/json-bug-fix/json-bug-fix/</loc>
+    <loc>https://www.zywvvd.com/2020/04/01/coding/utils/baidumap-ak/</loc>
     
     <lastmod>2020-07-07T15:43:15.510Z</lastmod>
     
