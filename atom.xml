@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zywvvd.com/"/>
-  <updated>2021-08-04T16:52:35.376Z</updated>
+  <updated>2021-08-06T15:35:46.221Z</updated>
   <id>https://www.zywvvd.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>node.js -1- 安装与 hello world 程序</title>
+    <link href="https://www.zywvvd.com/2021/08/06/node-js/node-js-tutorials/node-js-tutorials/"/>
+    <id>https://www.zywvvd.com/2021/08/06/node-js/node-js-tutorials/node-js-tutorials/</id>
+    <published>2021-08-06T15:18:06.000Z</published>
+    <updated>2021-08-06T15:35:46.221Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台，本文记录 node.js 基本知识。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="node.js" scheme="https://www.zywvvd.com/categories/node-js/"/>
+    
+    
+      <category term="node.js" scheme="https://www.zywvvd.com/tags/node-js/"/>
+    
+  </entry>
   
   <entry>
     <title>Matery -1- 主题安装</title>
@@ -6134,7 +6157,7 @@
     <link href="https://www.zywvvd.com/2020/02/24/software/recommend/ubuntu/flameshot/Ubuntu-flameshot/"/>
     <id>https://www.zywvvd.com/2020/02/24/software/recommend/ubuntu/flameshot/Ubuntu-flameshot/</id>
     <published>2020-02-24T07:22:46.000Z</published>
-    <updated>2020-07-07T15:43:15.760Z</updated>
+    <updated>2021-08-06T15:34:01.613Z</updated>
     
     <summary type="html">
     
